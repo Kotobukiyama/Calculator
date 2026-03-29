@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1774819396 source:d:\projetos de programas\cpp\calculator\main.cpp
+	"expressions.h"
+	<iostream>
+
+1774819361 source:d:\projetos de programas\cpp\calculator\expressions.cpp
+	"expressions.h"
+
+1774819455 d:\projetos de programas\cpp\calculator\expressions.h
+
